@@ -16,6 +16,6 @@
         }
     },
     "archive": {
-        "exclude": ["test"]
+        "exclude": ["/test", "test"]
     }
 }
